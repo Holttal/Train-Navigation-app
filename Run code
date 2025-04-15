@@ -1,0 +1,3 @@
+python -m streamlit run train_crossing_app.py
+
+insert that into the terminal of visual studio code in order to run the streamlit application locally.
